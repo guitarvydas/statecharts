@@ -1,4 +1,4 @@
-This directory contains my presentation for Papers We Love #30 (August 7, 2019).
+This directory contains my presentation for Papers We Love #30 (Toronto, Canada, August 7, 2019).
 
 During the presentation, I skipped some of the slides (marked "skipped").  These have all been unskipped and my comments appear in the slides.
 
